@@ -1,0 +1,46 @@
+
+
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+header{
+ background-color: rgba(255, 229, 72, 255);
+ height: 50px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    margin-top: -600px;
+}
+h2{
+    color:red;
+    text-align: center;}
+footer{
+
+    background-color: rgba(255, 229, 72, 255);
+    height: 50px; 
+    clear: both;
+    position: relative;
+    height: 50px;
+    margin-top: -200px;
+  
+}
+h3{
+    font-family: Fredoka One;
+
+}
+#submit{
+    margin-left: 120px;
+    
+    color:white;
+    background-color:red;
+    width: 150px;
+}
+#foodType{
+    margin-left: 40px;
+    width: 150px;
+    
+
+}
+#customerName{
+    margin-left: 10px;
+}
